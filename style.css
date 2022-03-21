@@ -1,0 +1,59 @@
+.navbar-collapse {
+    flex-grow: 0 !important;
+    align-items: center;
+}
+.btn-success {
+    color: #fff;
+    background-color: #00e77c !important;
+}
+.banner{
+    background-image: url(./img/autumn-g02816f1ac_1920.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    padding: 80px 0;
+}
+span{
+    color: #00e77c;
+}
+.contact-inf h3{
+    color: #00e77c;
+
+}
+form{
+        position: relative;
+        margin-right: 100px;
+}
+.submit{
+    background-color: rgb(255, 0, 119);
+    border: none;
+    padding:10px;
+    position: absolute;
+/* margin-left: 100px; */
+}
+.input-text{
+    padding: 10px;
+    margin-right: 0;
+    border: none;
+}
+.footer-links{
+    background-color: rgb(1, 125, 163);
+    color: white;
+}
+.footer-left img{
+    width: 200px;
+}
+.row{
+    justify-content: space-between;
+}
+/* .footer-right{
+    float: right;
+} */
+footer{
+    margin: 0;
+    background-color:  rgb(0, 69, 90);
+    padding: 5px;
+
+}
+footer p{
+    padding-top: 8px;
+}
