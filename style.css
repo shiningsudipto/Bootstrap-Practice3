@@ -7,7 +7,7 @@
     background-color: #00e77c !important;
 }
 .banner{
-    background-image: url(./img/autumn-g02816f1ac_1920.png);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./img/autumn-g02816f1ac_1920.png);
     background-repeat: no-repeat;
     background-size:cover ;
     padding: 80px 0;
