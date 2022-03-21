@@ -26,7 +26,7 @@ form{
 .submit{
     background-color: rgb(255, 0, 119);
     border: none;
-    padding:10px;
+    padding:1rem;
     position: absolute;
 /* margin-left: 100px; */
 }
@@ -34,6 +34,8 @@ form{
     padding: 10px;
     margin-right: 0;
     border: none;
+    width: 10.4rem;
+    height: 3.53rem;
 }
 .footer-links{
     background-color: rgb(1, 125, 163);
